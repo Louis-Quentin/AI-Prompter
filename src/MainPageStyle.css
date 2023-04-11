@@ -1,0 +1,15 @@
+.Title {
+    color: white;
+    padding-top: 80px;
+    font-size: 55px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.Description {
+    font-size: 17px;
+    margin: auto;
+    max-width: 800px;
+    padding: 50px 0 100px;
+    text-align: center;
+}
